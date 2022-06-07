@@ -1,0 +1,35 @@
+.areaDados {
+  height: 79vh;
+  border: 0.2vh solid blue;
+
+  margin: 0.2% 0.2% 0.2% 0.2%;
+  background-color: rgb(187, 237, 230);
+
+
+}
+
+.portugues{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  background-color: rgb(187, 237, 230);
+  text-align: center;
+}
+.matematica{
+  margin-right: 0.5%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  background-color: rgb(208, 182, 215);
+  text-align: center;
+}
+.ciencias{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5vh;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  background-color: rgb(208, 182, 215);
+  text-align: center;
+}
