@@ -7,6 +7,9 @@ function Cabecalho() {
     <div className="cabecalho" >
 
       <h2 className="titulo">Programa Inefável</h2> 
+      <img url ></img>
+
+      
 
     </div>
   );
