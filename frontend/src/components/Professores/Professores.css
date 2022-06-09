@@ -14,8 +14,8 @@ table {
 }
 
 #titulo {
-  border: 0.5vh solid black;
-  background-color: darkgrey;
+  border: 0.5vh solid rgb(136, 136, 136);
+  background-color: rgb(224, 224, 224);
   padding-top: 0.1vh;
 }
 
@@ -83,6 +83,9 @@ tbody > tr {
 
 tbody {
   text-align: left;
+}
+.le{
+  background-color:#0CABA8;
 }
 
 

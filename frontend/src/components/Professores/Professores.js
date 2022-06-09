@@ -27,7 +27,7 @@ function Professores() {
       <Cabecalho />
       <MenuHorizontal />
       
-      <legend>Cadastro ALUNO</legend>
+      <legend className="le">Cadastro ALUNO</legend>
 
       <div className="tabela">
         <table className="table table-responsive">

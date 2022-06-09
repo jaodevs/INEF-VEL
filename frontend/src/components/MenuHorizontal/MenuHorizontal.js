@@ -9,9 +9,9 @@ function MenuHorizontal() {
     <div className="menuHorizontal">
       <nav className="navMenu" >
         <ul  class="d-flex bd-highlight">
-          <li><button type="button" class="btn btn-primary"> <Link to="/">Início </Link> </button> </li>          
-          <li><button type="button" class="btn btn-primary"> <Link to="/alunos">Aluno </Link> </button></li>
-          <li><button type="button" class="btn btn-primary"> <Link to="/professores">Professor </Link> </button></li>         
+          <li><button type="button" className="btn btn-primary"> <Link to="/">Início </Link> </button> </li>          
+          <li><button type="button" className="btn btn-primary"> <Link to="/alunos">Aluno </Link> </button></li>
+          <li><button type="button" className="btn btn-primary"> <Link to="/professores">Professor </Link> </button></li>         
           
         </ul>
        

@@ -27,7 +27,7 @@ function Categorias() {
       <Cabecalho />
       <MenuHorizontal />
       
-      <legend>Cadastro ALUNO</legend>
+      <legend className="li">Cadastro ALUNO</legend>
 
       <div className="tabela">
         <table className="table table-responsive">
