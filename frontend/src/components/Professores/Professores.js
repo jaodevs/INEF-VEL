@@ -5,10 +5,9 @@ import MenuHorizontal from "../MenuHorizontal/MenuHorizontal.js";
 
 import api from "../../services/api.js"
 
-import Moment from 'react-moment'
+
 
 import "./Professores.css"
-import Geral from "../Geral/Geral.js";
 
 function Professores() {
 
@@ -27,7 +26,7 @@ function Professores() {
       <Cabecalho />
       <MenuHorizontal />
       
-      <legend className="le">Cadastro ALUNO</legend>
+      <legend className="le">Cadastro Professor</legend>
 
       <div className="tabela">
         <table className="table table-responsive">
